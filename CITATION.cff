@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite them as below."
+title: "Data and code for: Integrating asymmetry, geography and timescale analyses to uncover fish population synchrony patterns in a tropical reservoir"
+type: software
+authors:
+  - family-names: Cararo
+    given-names: Emanuel R.
+    email: emanuelrampanellicararo@gmail.com
+    orcid: "https://orcid.org/0000-0003-2859-0412"
+version: "1.0.0"
+date-released: "2026-10-13"
+# doi: "10.5281/zenodo.XXXXXXX"
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/emanuelcararo/REPOSITORY"
+keywords:
+  - spatial synchrony
+  - fish populations
+  - tail dependence
+  - wavelets
+  - reservoir
+  - Madeira River
