@@ -4,7 +4,7 @@ Data and R code for the manuscript:
 
 > **Integrating asymmetry, geography and timescale analyses to uncover fish population synchrony patterns in a tropical reservoir** Emanuel R. Cararo *et al.* --- *[Journal, year, DOI: add after publication]*
 
-[![DOI](https://zenodo.org/badge/DOI/XX.XXXX/zenodo.XXXXXXX.svg)](https://doi.org/XX.XXXX/zenodo.XXXXXXX) <!-- replace after the Zenodo release -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23354278.svg)](https://doi.org/10.5281/zenodo.23354278)
 
 ## Overview
 
@@ -123,7 +123,7 @@ Figures (`Plots/`):
 If you use these data or code, please cite the article and this archive:
 
 -   Cararo, E. R. *et al.* (2026). Integrating asymmetry, geography and timescale analyses to uncover fish population synchrony patterns in a tropical reservoir. *JOURNAL*. DOI: *[add]*
--   Cararo, E. R. (2026). Data and code for "Integrating asymmetry, geography and timescale analyses to uncover fish population synchrony patterns in a tropical reservoir" (vX.X). Zenodo. DOI: *[add]*
+-   Cararo, E. R. (2026). Data and code for "Integrating asymmetry, geography and timescale analyses to uncover fish population synchrony patterns in a tropical reservoir" (v1.0.1). Zenodo. DOI: [10.5281/zenodo.23354278](https://doi.org/10.5281/zenodo.23354278)
 
 See also `CITATION.cff`.
 
