@@ -106,7 +106,7 @@ Figures (`Plots/`):
 
 ## Input data
 
-**`1_CPUE.xlsx`** --- one row per site, year and month (400 rows: 10 sites × 40 quarterly samples). Columns: `Local` (site code), `Year`, `Month` (3, 6, 9, 12), `Species_Sum` (total across species; not treated as a species), then one column per species (`Genus.species`), CPUE values.
+**`1_CPUE.xlsx`** --- one row per site, year and month (400 rows: 10 sites × 40 quarterly samples). Columns: `Local` (site code), `Year`, `Month` (3, 6, 9, 12), then one column per species (`Genus.species`), CPUE values.
 
 **`2_LOCALS.csv`** (semicolon-separated) --- `Local`, `ID`, `Habitat` (river / tributary), `Dam` (upstream / downstream of the dam), `lat`, `long` (decimal degrees).
 
