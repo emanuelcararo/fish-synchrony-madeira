@@ -8,7 +8,7 @@ Data and R code for the manuscript:
 
 ## Overview
 
-The workflow quantifies spatial synchrony of fish populations sampled at ten sites of the Madeira River reservoir (Brazil). It:
+The workflow quantifies spatial synchrony of fish populations sampled at ten sites in the Madeira River (Brazil). It:
 
 1.  builds species-by-site CPUE time series from quarterly samples and aggregates them to hydrological years (2013--2022);
 2.  estimates mean spatial synchrony (Spearman cross-correlation) with bootstrap confidence intervals;
